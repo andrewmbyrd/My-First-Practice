@@ -1,0 +1,3 @@
+This file simply exists to test the git diff function from the other side. 
+SO there is a file on the remote repo, but not yet on the local repo.
+Expect to see this file when i run git diff before i run git pull
